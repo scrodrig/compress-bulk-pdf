@@ -1,0 +1,7 @@
+# local tooling
+.atl/
+
+# python
+__pycache__/
+*.pyc
+.venv/
